@@ -4,7 +4,7 @@
 
 teachers = [
   ["김종찬", "숭실대 컴퓨터학부", "ssu/t1.png", "Tech and Tech of Passion will change this world."], #마지막에 쉼표 잊지 마시고
-  ["김진아", "단국대 컴퓨터과학과", "ssu/t2.jpg", "두마디"], #여기도 마지막에 쉼표 잊지 마시고
+  ["김진아", "단국대 컴퓨터학부", "ssu/t2.jpg", "실행이 답이다"], #여기도 마지막에 쉼표 잊지 마시고
   ["황성현", "성균관대 소프트웨어학과", "ssu/t3.png", "sunghyun.kitchen"] #마지막 element는 쉼표로 끝나지 않음
 ].suffle
 
