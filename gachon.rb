@@ -8,7 +8,6 @@ teachers = [
 
 students = [
 ["이다빈", "가천대 경영", "gachon/s6.jpg"],
-["변영표", "가천대 산업디자인", "gachon/s4.jpg"],
 ["이승현", "가천대 산업디자인", "gachon/s8.jpg"],
 ["김초지", "가천대 시각디자인", "gachon/s3.jpg"],
 ["김진영", "가천대 컴퓨터미디어융합", "gachon/s2.jpg"],
