@@ -27,4 +27,4 @@ students = [
 	["천현정", "이화여대 약학과",				"/members/snu-yonsei/s18.jpg"],
 	["현지인", "서울대학교 서양화과", 			"/members/snu-yonsei/s19.jpg"]
 ].shuffle
-@snu-yonsei << teachers << students
+@snu_yonsei << teachers << students
