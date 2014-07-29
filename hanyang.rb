@@ -4,16 +4,16 @@
 
 teachers = [
   ["고윤용", "한양대 컴퓨터공학부", "hanyang/t1.jpg", "프로 알콜러"],
-  ["이희원", "한양대 컴퓨터공학부", "hanyang/t2.png", "프로 인디게이머"]
+  ["이희원", "한양대 컴퓨터공학부", "hanyang/t2.jpg", "프로 인디게이머"]
 ].suffle
 
 students = [
   ["공다은", "한양대 문화인류학과", "hanyang/s1.jpg"], 
   ["김도희", "한양대 경영학부", "hanyang/s2.jpg"], 
-  ["김동률", "한양대 융합전자공학부", "hanyang/s3.png"], 
+  ["김동률", "한양대 융합전자공학부", "hanyang/s3.jpg"], 
   ["김슬기", "한양대 피아노과", "hanyang/s4.jpg"], 
-  ["김지효", "한양대 무용학과", "hanyang/s5.png"],
-  ["서정암", "한양대 경영학부", "hanyang/s6.png"], 
+  ["김지효", "한양대 무용학과", "hanyang/s5.jpg"],
+  ["서정암", "한양대 경영학부", "hanyang/s6.jpg"], 
   ["성준석", "한양대 융합전자공학부", "hanyang/s7.jpg"],
   ["신종영", "한양대 교육공학과", "hanyang/s8.jpg"],
   ["이소영", "한양대 문화콘텐츠학과", "hanyang/s9.jpg"],
