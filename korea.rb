@@ -2,11 +2,11 @@
 
 def korea
   teachers = [
-    ["민종현", "고려대 컴퓨터교육과", "/members/korea/t1.jpg","{{너가 원하던거 나 고친 지금에야 넌 어디로 갔는지}}"],
-    ["구동현", "고려대 컴퓨터학과", "/members/korea/t2.jpg","{{너무 어려워 날 몰라주는 너도 서러워}}"],
-    ["강원준", "고려대 경영학과", "/members/korea/t3.jpg","{{널 잊으려고 노력해봐도 잘 안되 너 미워하는건}}"],
-    ["남상준", "고려대 컴퓨터학과", "/members/korea/t4.jpg","{{널 기다리는 밤 처럼 길고 어둡던 우리 사이 공백}}"],
-    ["이상윤", "고려대 컴퓨터학과", "/members/korea/t5.jpg","{{officially missing you}}"]
+    ["민종현", "고려대 컴퓨터교육과", "/members/korea/t1.jpg","{{널 만지던 니 손길}}"],
+    ["구동현", "고려대 컴퓨터학과", "/members/korea/t2.jpg","{{너의 눈 코 입}}"],
+    ["강원준", "고려대 경영학과", "/members/korea/t3.jpg","{{여전히 널 느낄 수 있지만}}"],
+    ["남상준", "고려대 컴퓨터학과", "/members/korea/t4.jpg","{{작은 손톱 까지}}"],
+    ["이상윤", "고려대 컴퓨터학과", "/members/korea/t5.jpg","{{다 아아아아아아}}"]
   ].shuffle
 
   students = [
