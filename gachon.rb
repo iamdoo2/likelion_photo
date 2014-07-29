@@ -4,7 +4,7 @@ teachers = [
 ["송제인", "가천대 소프트웨어설계경영", "/members/gachon/t1.jpg", "내안에 무한한 힘이 넘친다!"], 
 ["이현아", "가천대 소프트웨어설계경영", "/members/gachon/t2.jpg", "제가 당신을 인도하겠어요."],
 ["안준형", "가천대 소프트웨어설계경영", "/members/gachon/t3.jpg", "내가 캐리한다. 나만 믿어."] 
-].suffle
+].shuffle
 
 students = [
 ["이다빈", "가천대 경영", "/members/gachon/s6.jpg"],
@@ -15,6 +15,6 @@ students = [
 ["심세용", "가천대 소프트웨어설계경영", "/members/gachon/s5.jpg"],
 ["이상아", "가천대 소프트웨어설계경영", "/members/gachon/s7.jpg"],
 ["이혜빈", "가천대 컴퓨터공학", "/members/gachon/s9.jpg"]
-].suffle
+].shuffle
 
 @gachon << teachers << students

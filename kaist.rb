@@ -5,7 +5,7 @@
 teachers = [
 ["이태우", "KAIST 전산학과", "/members/kaist/t1.jpg", "Indentation Error"], #마지막에 쉼표 잊지 마시고
 ["김동우", "KAIST 전산학과", "/members/kaist/t2.jpg", "Syntax Error"] #여기도 마지막에 쉼표 잊지 마시고
-].suffle
+].shuffle
 
 students = [
 ["정지혜", "한남대 경영정보학과", "/members/kaist/s1.jpg"],
@@ -19,7 +19,7 @@ students = [
 ["강민지", "KAIST 산업디자인과", "/members/kaist/s9.jpg"],
 ["손현진", "KAIST 바이오및뇌공학과", "/members/kaist/s10.jpg"],
 ["유수형", "KAIST 건설및환경공학과", "/members/kaist/s11.jpg"]
-].suffle
+].shuffle
 
 #선생님 셔플(랜덤) 한번 하고, 학생 셔플 한번 해서 넣음.
 @kaist << teachers << students

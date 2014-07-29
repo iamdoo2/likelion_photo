@@ -6,7 +6,7 @@ teachers = [
   ["강원준", "고려대 경영학과", "/members/korea/t3.jpg","{{널 잊으려고 노력해봐도 잘 안되 너 미워하는건}}"],
   ["남상준", "고려대 컴퓨터학과", "/members/korea/t4.jpg","{{널 기다리는 밤 처럼 길고 어둡던 우리 사이 공백}}"],
   ["이상윤", "고려대 컴퓨터학과", "/members/korea/t5.jpg","{{officially missing you}}"]
-].suffle
+].shuffle
 
 students = [
   ["한장희", "고려대 산업경영학과", "/members/korea/s2.jpg"], 
@@ -23,6 +23,6 @@ students = [
   ["안진아", "고려대 컴퓨터학과", "/members/korea/s13.jpg"],
   ["이진솔", "고려대 컴퓨터학과", "/members/korea/s14.jpg"],
   ["임재민", "고려대 컴퓨터학과", "/members/korea/s15.jpg"]
-].suffle
+].shuffle
 
 @korea << teachers << students
