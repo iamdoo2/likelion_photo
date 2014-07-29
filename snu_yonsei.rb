@@ -1,4 +1,4 @@
-@snu-yonsei = Array.new
+@snu_yonsei = Array.new
 teachers = [
 	["홍지호", "연세대학교 컴퓨터과학과", 		"/members/snu-yonsei/t1.jpg", "수고가 많다."],
 	["박준호", "서울대학교 컴퓨터공학부", 		"/members/snu-yonsei/t2.jpg", "밤샘이 많다."],
